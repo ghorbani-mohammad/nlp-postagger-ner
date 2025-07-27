@@ -7,17 +7,6 @@
 
 A comprehensive Persian Natural Language Processing pipeline that implements Part-of-Speech (POS) tagging and Named Entity Recognition (NER) using machine learning approaches. This project processes Persian text with UTF-8 encoding and provides accurate linguistic analysis for Persian language applications.
 
-## 📋 Table of Contents
-
-- [Features](#-features)
-- [Installation](#-installation)
-- [Project Structure](#-project-structure)
-- [Usage](#-usage)
-- [Technical Details](#-technical-details)
-- [Performance](#-performance)
-- [Contributing](#-contributing)
-- [License](#-license)
-
 ## ✨ Features
 
 ### POS Tagging System
