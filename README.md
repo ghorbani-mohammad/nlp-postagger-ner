@@ -172,8 +172,6 @@ def features(sentence, index):
 - **Sentence Boundaries**: Marked with special tokens
 - **Entity Labels**: BIO tagging scheme for NER
 
-## 📊 Performance
-
 ### POS Tagging Metrics
 - **Accuracy**: High performance on Persian text
 - **Confusion Matrix**: Detailed analysis of tag predictions
@@ -185,41 +183,5 @@ def features(sentence, index):
 - **F1-Score**: Balanced performance measure
 - **Entity Types**: Support for multiple entity categories
 
-## 🤝 Contributing
-
-We welcome contributions to improve the Persian NLP pipeline! Here's how you can help:
-
-1. **Fork the repository**
-2. **Create a feature branch** (`git checkout -b feature/amazing-feature`)
-3. **Commit your changes** (`git commit -m 'Add amazing feature'`)
-4. **Push to the branch** (`git push origin feature/amazing-feature`)
-5. **Open a Pull Request**
-
-### Areas for Improvement
-- Additional feature engineering for POS tagging
-- Support for more entity types in NER
-- Performance optimization
-- Documentation enhancements
-- Test coverage expansion
-
 ## 📄 License
-
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📚 References
-
-- [Stanford NLP Documentation](https://nlp.stanford.edu/)
-- [scikit-learn User Guide](https://scikit-learn.org/stable/user_guide.html)
-- [NLTK Documentation](https://www.nltk.org/)
-- [Persian Language Processing Resources](https://github.com/sobhe/hazm)
-
-## 📞 Contact
-
-For questions, issues, or contributions, please:
-- Open an issue on GitHub
-- Contact the maintainers
-- Check the project documentation
-
----
-
-**Note**: This project is designed specifically for Persian language processing and may require adjustments for other languages or specific use cases.
