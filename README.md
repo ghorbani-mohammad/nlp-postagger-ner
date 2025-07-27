@@ -1,5 +1,3 @@
-# Mohammad - NLP Project Portfolio
-
 ## Persian NLP Pipeline: POS Tagging & NER
 
 ### Project Overview
